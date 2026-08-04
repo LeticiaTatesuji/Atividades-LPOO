@@ -1,4 +1,4 @@
-package Ex1;
+package AT02.Ex1;
 
 public class Produto {
     String nome;

@@ -1,4 +1,4 @@
-package Ex2;
+package AT02.Ex2;
 
 public class MainConta {
     static void main(String[] args) {

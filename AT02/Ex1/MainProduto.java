@@ -1,4 +1,4 @@
-package Ex1;
+package AT02.Ex1;
 
 public class MainProduto {
     static void main(String[] args) {

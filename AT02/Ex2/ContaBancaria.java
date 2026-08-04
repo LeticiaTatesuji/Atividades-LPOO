@@ -1,4 +1,4 @@
-package Ex2;
+package AT02.Ex2;
 
 public class ContaBancaria {
     String titular;

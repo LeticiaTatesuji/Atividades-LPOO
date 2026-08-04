@@ -1,4 +1,4 @@
-package Ex3;
+package AT02.Ex3;
 
 public class MainVeiculo {
     static void main(String[] args) {
