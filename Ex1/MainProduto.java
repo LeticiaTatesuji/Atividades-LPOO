@@ -1,3 +1,5 @@
+package Ex1;
+
 public class MainProduto {
     static void main(String[] args) {
         Produto produto1 = new Produto("Morango",

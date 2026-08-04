@@ -1,3 +1,5 @@
+package Ex3;
+
 public class MainVeiculo {
     static void main(String[] args) {
         Veiculo carro = new Veiculo(

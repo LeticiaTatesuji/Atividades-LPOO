@@ -1,3 +1,5 @@
+package Ex2;
+
 public class MainConta {
     static void main(String[] args) {
         ContaBancaria conta = new ContaBancaria(

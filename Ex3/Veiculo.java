@@ -1,3 +1,5 @@
+package Ex3;
+
 public class Veiculo {
     String modelo;
     String marca;

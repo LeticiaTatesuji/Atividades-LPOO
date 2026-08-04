@@ -1,3 +1,5 @@
+package Ex2;
+
 public class ContaBancaria {
     String titular;
     int numConta;
