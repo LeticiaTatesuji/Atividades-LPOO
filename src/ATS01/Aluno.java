@@ -1,3 +1,5 @@
+package ATS01;
+
 //classe aluno
 public class Aluno {
     //variáveis globais
